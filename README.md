@@ -1,5 +1,7 @@
 # KeyBlaze-Releases
 DNF 按键连发工具,不影响聊天
+<img width="922" height="682" alt="QQ20260522-131921" src="https://github.com/user-attachments/assets/49dc7d4b-34ad-40f1-8bce-59083fd48303" />
+
 
 因为DNF的新登录器我用了之后感觉很好,但是自带的连发和废的一样没什么太大的区别.去C站看了一眼,有人发了一个好像叫Autofire还是什么,我试了一下,不知道是不是我系统问题,停止按键之后也会持续触发,反正不好用,于是就自己写了一个.
 一共2个版本,`KeyBlaze-WinForms.exe`看名字就知道是传统的`WinForms`,因为,因为每个人的分辨率和缩放不一样,`WinForms`要去适配所有人的分辨率和缩放我嫌麻烦,干脆直接用`WPF`又写了一个`Keyblaze-WPF-UI.exe`,反正核心代码复制粘贴,只是界面不一样.
